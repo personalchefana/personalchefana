@@ -51,12 +51,7 @@ Katy · Sugar Land · Houston, TX
 - Dietary restrictions and food allergies handled with care
 - Trusted by Houston-area families and executives
 
-## Contact & Booking
-
-**Address:** 26700 Kuykendahl Rd, The Woodlands, TX 77375
-**Phone:** (346) 218-3912
 **Website:** [personalchefana.com](https://personalchefana.com)
-
 **Instagram:** [@personalchefanallc](https://instagram.com/personalchefanallc)
 
 ---
