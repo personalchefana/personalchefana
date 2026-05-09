@@ -38,11 +38,6 @@ Premium private chef packages for the FIFA World Cup 2026
 in Houston, TX. Exclusive dining experiences for international 
 guests, corporate groups, and luxury hospitality clients.
 
-## Service Area
-
-The Woodlands · Spring · Conroe · Tomball · Cypress · 
-Katy · Sugar Land · Houston, TX
-
 ## Why Clients Choose Personal Chef Ana
 
 - 100% customized menus — no templates, no shortcuts
@@ -50,6 +45,11 @@ Katy · Sugar Land · Houston, TX
 - Flexible scheduling built around your lifestyle
 - Dietary restrictions and food allergies handled with care
 - Trusted by Houston-area families and executives
+
+## Service Area
+
+The Woodlands · Spring · Conroe · Tomball · Cypress · 
+Katy · Sugar Land · Houston, TX
 
 **Website:** [personalchefana.com](https://personalchefana.com)
 **Instagram:** [@personalchefanallc](https://instagram.com/personalchefanallc)
