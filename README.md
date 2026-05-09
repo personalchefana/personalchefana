@@ -1,16 +1,21 @@
-## Hi there 👋
+# Personal Chef Ana
 
-<!--
-**personalchefana/personalchefana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Private & Personal Chef serving The Woodlands and Greater Houston, TX**
 
-Here are some ideas to get you started:
+I take the stress out of the kitchen so busy families and professionals 
+can reclaim their time, energy, and health.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Services
+
+| Service | Details |
+|---|---|
+| Weekly Meal Prep | Custom menus: Keto, Vegan, Gluten-Free, family favorites |
+| Private Dinners | Restaurant-quality experience in your home |
+| Event Catering | Intimate gatherings to large-scale events (20–100+ guests) |
+
+## Location
+26700 Kuykendahl Rd, The Woodlands, TX 77375
+Phone: (346) 218-3912
+
+## Learn More
+[personalchefana.com](https://personalchefana.com)
