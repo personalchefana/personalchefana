@@ -1,4 +1,4 @@
-# Personal Chef Ana — Private Chef in The Woodlands & Houston, TX
+# Personal Chef Ana in The Woodlands, TX
 
 Personal Chef Ana is a professional private chef serving The Woodlands, 
 Spring, Conroe, and the Greater Houston area in Texas. 
